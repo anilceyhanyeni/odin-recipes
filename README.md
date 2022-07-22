@@ -1,0 +1,1 @@
+This is an exercise to design a simple website for recipes and push it to my github repository via linux terminal.
